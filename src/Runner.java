@@ -1,5 +1,5 @@
 
-import Interfaz.Interfaz_Cliente;
+import sockets.Interfaz_Cliente;
 
 public class Runner {
 

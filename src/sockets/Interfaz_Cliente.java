@@ -1,6 +1,9 @@
-package Interfaz;
+package sockets;
 
 import javax.swing.*;
+import sockets.Connection;
+
+import java.io.IOException;
 
 public class Interfaz_Cliente extends JFrame {
     private JPanel jPanel;
